@@ -1,4 +1,4 @@
-package com.javanauta.agendadortarefas.infraestructure.exception;
+package com.javanauta.agendadortarefas.infrastructure.exception;
 
 public class ResourceNotFoundException extends RuntimeException {
 
