@@ -1,7 +1,7 @@
-package com.javanauta.agendadortarefas.infraestructure.repository;
+package com.javanauta.agendadortarefas.infrastructure.repository;
 
-import com.javanauta.agendadortarefas.infraestructure.entity.TarefasEntity;
-import com.javanauta.agendadortarefas.infraestructure.enums.StatusNotificacaoEnum;
+import com.javanauta.agendadortarefas.infrastructure.entity.TarefasEntity;
+import com.javanauta.agendadortarefas.infrastructure.enums.StatusNotificacaoEnum;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

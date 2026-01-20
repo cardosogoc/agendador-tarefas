@@ -1,4 +1,4 @@
-package com.javanauta.agendadortarefas.infraestructure.enums;
+package com.javanauta.agendadortarefas.infrastructure.enums;
 
 public enum StatusNotificacaoEnum {
     PENDENTE, NOTIFICADO, CANCELADO

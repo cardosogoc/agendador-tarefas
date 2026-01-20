@@ -1,7 +1,7 @@
 package com.javanauta.agendadortarefas.business.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.javanauta.agendadortarefas.infraestructure.enums.StatusNotificacaoEnum;
+import com.javanauta.agendadortarefas.infrastructure.enums.StatusNotificacaoEnum;
 import lombok.*;
 
 import java.time.LocalDateTime;
